@@ -47,3 +47,7 @@ This project demonstrates **multiple recommendation and AI algorithms** integrat
 | **Sequential Pattern Matching** | Predict next likely item | Sequence Mining |
 | **LSTM** | Analyze text sentiment | Deep Learning |
 
+
+# 💡 What’s Next
+- Fixing dependency compatibility for deployment
+- Adding chatbot integration module
