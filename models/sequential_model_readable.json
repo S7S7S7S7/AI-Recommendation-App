@@ -1,0 +1,18 @@
+{
+  "('Milk',)": {
+    "Bread": 1,
+    "Cereal": 1
+  },
+  "('Bread',)": {
+    "Butter": 2
+  },
+  "('Cereal',)": {
+    "Milkshake": 1
+  },
+  "('Butter',)": {
+    "Jam": 2
+  },
+  "('Jam',)": {
+    "Coffee": 1
+  }
+}
