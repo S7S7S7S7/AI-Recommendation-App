@@ -8,6 +8,8 @@
 
 ---
 
+###  [Watch Video] :- https://www.loom.com/share/3512bd900f8e4bf7a2c5bb21495d7d87
+
 ### 🚀 Overview
 
 The **AI-Driven Recommendation System** is an interactive web app built with **Streamlit** that helps analyze customer purchase patterns, predict next likely items, and perform **sentiment analysis** on customer reviews.
